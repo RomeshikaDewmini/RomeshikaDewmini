@@ -1,6 +1,6 @@
-![MasterHead](https://snz04pap002files.storage.live.com/y4mMIZQyb9Ud-22uCGmT7bB03_EMgbXJy_tLNjKBCkNT5P8NMWnlh3Anw-2CjmGkRzb-PDhGQaRnQd3913XdZYzKXJTrT26YcWlxKFN9sMz5TmINE9Nxb9eRMeQ91YMekY5BTVS8GLH1R3PEfGGR-6LY7f-lIM1XbkxY7l_dnjASFfkgZ-cCXM1yIKQ6FYUC3k9?width=1584&height=396&cropmode=none)
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Romeshika Dewmini</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
