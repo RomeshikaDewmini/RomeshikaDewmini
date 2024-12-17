@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github-header-image.png" alt="Header" width="100%" style="border-radius: 10px;" />
-</p>
-<h1 align="center">Hello World! 👋 , I'm Romeshika , FullStack Developer</h1>
+![Header](./github-header-image.png)
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
@@ -28,7 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false" width="32%" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/RomeshikaDewmini/RomeshikaDewmini/blob/main/path-to-image/github-header-image.png" alt="Header" width="100%" style="border: 5px solid #4CAF50; border-radius: 10px;" />
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
