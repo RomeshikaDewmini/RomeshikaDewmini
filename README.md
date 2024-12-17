@@ -1,9 +1,9 @@
-
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Romeshika Dewmini</h1>
 <h3 align="center"> Fullstack Developer</h3>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshikadewmini&label=Profile%20views&color=0e75b6&style=flat" alt="romeshikadewmini" /> </p>
 
