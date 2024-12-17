@@ -4,6 +4,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshikadewmini&label=Profile%20views&color=0e75b6&style=flat" alt="romeshikadewmini" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false" width="48%" />
+</p>
 
 - 🔭 I’m currently working on **Test**
 
