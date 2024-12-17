@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Romeshika Dewmini</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshikadewmini&label=Profile%20views&color=0e75b6&style=flat" alt="romeshikadewmini" /> </p>
 
 - 🔭 I’m currently working on **Test**
