@@ -4,13 +4,24 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshikadewmini&label=Profile%20views&color=0e75b6&style=flat" alt="romeshikadewmini" /> </p>
 
-- 🔭 I’m currently working on **Test**
+### 👨‍💻 About Me
+- 🔭 **Currently working on**: **Test**
+- 🌱 **Learning**: **Next.js**
+- 💬 **Ask me about**: **Web development | OOC | MERN stack**
 
-- 🌱 I’m currently learning **Next.js**
+---
 
-- 💬 Ask me about **Web development| OOC | mern **
+### 📚 Connect with Me:
+<p align="center">
+  <a href="[https://www.linkedin.com/in/romeshikadewmini/](https://www.linkedin.com/in/romeshika-dewmini-87216530b/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300A1F1.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="romeshikadewmini100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23E60000.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
 <p align="left">
 </p>
 
@@ -26,12 +37,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false" width="32%" />
 </p>
 <p align="center">
-  <img src="https://github.com/RomeshikaDewmini/RomeshikaDewmini/blob/main/path-to-image/github-header-image.png" alt="Header" width="100%" style="border: 5px solid #4CAF50; border-radius: 10px;" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=RomeshikaDewmini&icon=0&color=0" alt="visit-count" />
+  </a>
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RomeshikaDewmini&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  Proudly created with ❤️ by [Romeshika Dewmini](https://github.com/RomeshikaDewmini)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
