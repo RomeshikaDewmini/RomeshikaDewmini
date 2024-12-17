@@ -22,11 +22,12 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeshikaDewmini&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
