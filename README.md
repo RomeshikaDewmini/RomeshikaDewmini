@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Romeshika Dewmini</h1>
-<h3 align="center"> Fullstack Developer</h3>
-
+<h1 align="center">Hi 👋, I'm Romeshika , A FullStack Developer</h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
