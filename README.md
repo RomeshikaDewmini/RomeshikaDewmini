@@ -13,13 +13,14 @@
 
 ### 📚 Connect with Me:
 <p align="center">
-  <a href="[https://www.linkedin.com/in/romeshikadewmini/](https://www.linkedin.com/in/romeshika-dewmini-87216530b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/romeshika-dewmini-87216530b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%2300A1F1.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="romeshikadewmini100@gmail.com" target="_blank">
+  <a href="mailto:romeshikadewmini100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23E60000.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ---
 <p align="left">
