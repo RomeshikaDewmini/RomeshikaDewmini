@@ -119,10 +119,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-# 🐍 GitHub Contribution Snake
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RomeshikaDewmini/RomeshikaDewmini/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RomeshikaDewmini&theme=tokyo-night&hide_border=true" 
+    width="65%"
+  />
 </p>
 
 ---
